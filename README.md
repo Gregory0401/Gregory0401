@@ -15,22 +15,6 @@
 ###
 
 <div align="center"> 
-  
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=OttoCarius&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=OttoCarius&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OttoCarius&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
-
-###
-
-<div align="center"> 
-  
-# # 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=Gregory0401&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-</div>
-
-###
 
 
 
