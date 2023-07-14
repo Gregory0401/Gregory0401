@@ -4,8 +4,11 @@
 
 
 
-  # <h3 align="center">💻Tech Stack </h3>
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=800&size=32&pause=1000&color=000000&width=1000&height=60&lines=Now+my+tech+stack+includes:)](https://git.io/typing-svg)
+<img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=#E34F26" style="width:200px; height:55px" /> <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=blue" style="width:200px; height:55px"/> <img src="https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=Sass&logoColor=#c69" style="width:200px; height:55px"/> <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E" style="width:200px; height:55px"/> <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=#3178C6" style="width:200px; height:55px"/> <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=#61DAFB" style="width:200px; height:55px"/> <img src="https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=Redux&logoColor=#764ABC" style="width:200px; height:55px"/> <img src="https://img.shields.io/badge/VS Code-black?style=for-the-badge&logo=Visual Studio Code&logoColor=blue" style="width:200px; height:55px"/> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=#181717" style="width:200px; height:55px" /> <img src="https://img.shields.io/badge/npm-black?style=for-the-badge&logo=NPM&logoColor=#CB3837" style="width:200px; height:55px" /> <img src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=Postman&logoColor=#FF6C37" style="width:200px; height:55px" />
+<img src="https://img.shields.io/badge/MongoDb-black?style=for-the-badge&logo=MongoDb&logoColor=#FF6C37" style="width:200px; height:55px" />
+<img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma&logoColor=#F24E1E" style="width:200px; height:55px" />
+<img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js&logoColor=#F24E1E" style="width:200px; height:55px" />
 
 
 ###
@@ -31,3 +34,7 @@
 </div>
 
 ###
+
+
+
+
