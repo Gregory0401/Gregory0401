@@ -10,11 +10,6 @@
 <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma&logoColor=#F24E1E" style="width:200px; height:55px" />
 <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js&logoColor=#F24E1E" style="width:200px; height:55px" />
 
-
-###
-
-<h3 align="center">I have experience in educational/home projects.<br>Passed the annual intensive on full-stack development. During my studies, I completed 9 projects (4 team and 5 individual). I was a team leader on one project, a scrum master on another, and a developer on all the others.<br>Technologies such as: HTML5, CSS, SAAS, JavaScript, React, Redux-toolkit, Figma, Git, VS-code, REST API, MongoDB, Node.js, express are used.<br><br>I wish  to find a dream job/company, start developing in this direction and achieve success and new victories.</h3>
-
 ###
 
 <div align="center"> 
